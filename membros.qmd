@@ -1,0 +1,9 @@
+---
+title: "Membros"
+listing: 
+  contents: membros # all Quarto docs in the `posts` directory will be included on your listing page
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  sort: "image" # can also sort on more than one field
+  fields: [image, title, description]
+  image-height: 320px
+---

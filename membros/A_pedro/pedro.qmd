@@ -1,0 +1,14 @@
+---
+title: "Pedro Martins"
+description: "GAIP | Gabinete de Apoio à Inovação Pedagógica"
+image: A_pedro.jpg
+---
+
+![](A_pedro.jpg)
+
+-   **Função atual** | Técnico Superior
+-   **Local** | Gabinete de Apoio à Inovação Pedagógica
+-   **Campus** | Gambelas
+-   **Sobre mim** | "Gosto da participação em causas cívicas, acredito que mais do que nos queixarmos temos o dever de tentar mudar para melhor aquilo que está ao nosso alcance."
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | "Reforçar a defesa dos direitos e a audição dos trabalhadores da UAlg nas tomadas de decisão da nossa Instituição."
+

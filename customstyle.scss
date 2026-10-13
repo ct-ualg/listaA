@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+$callout-color-note: #5ac5f1ff;
+$callout-color-tip: #5ac5f1ff;
+$callout-color-caution: #5ac5f1ff;
+$callout-color-warning: #5ac5f1ff;
+$callout-color-important: #5ac5f1ff;
+
+
+/*-- scss:rules --*/
+
+/* adjust the selector to match your markup */
+.card img,
+.quarto-grid-item img {
+  width: 100%;
+  aspect-ratio: 1 / 1;      /* portrait; use 1 / 1 for squares */
+  object-fit: cover;        /* fill the box, crop the excess */
+  object-position: center 30%;  /* keep the upper part (faces) */
+}
+
+.card img,
+.quarto-grid-item img {
+  filter: grayscale(100%);
+  transition: filter 0.2s ease;
+}
+
+.card:hover img,
+.quarto-grid-item:hover img {
+  filter: grayscale(0%);
+}

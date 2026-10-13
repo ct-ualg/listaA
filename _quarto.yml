@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Lista A | Comissão de Trabalhadores UAlg"
+  favicon: pics/favicon.png
+  navbar:
+    background: "#5ac5f1ff"
+    search: true
+    tools:
+      - icon: house-heart-fill
+        menu:
+          - text: UAlg
+            url: https://www.ualg.pt/
+    left:
+      - href: index.qmd
+        text: "Lista A"
+      - href: manifesto.qmd
+        text: "Manifesto"
+      - href: membros.qmd
+        text: "Membros"
+      - href: propostas.qmd
+        text: "Propostas"
+      # - href: sugestoes.qmd
+      #   text: "Sugestões"
+      
+  back-to-top-navigation: true
+  page-footer: 
+    left: "Copyright 2026, Lista A - Comissão de Trabalhadores UAlg" 
+    right: 
+      - icon: github
+        href: https://github.com/ListaA-ComissaoTrabalhadoresUAlg
+    background: light
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - customstyle.scss
+    toc: false
+
+editor: source
+
+

@@ -1,0 +1,13 @@
+---
+title: "Rui Silva"
+description: "ABC-RI | Algarve Biomedical Center Research Institute"
+image: J_rui.jpg
+---
+
+![](J_rui.jpg)
+
+-   **Função atual** | Investigador
+-   **Local** | Algarve Biomedical Center Research Institute
+-   **Campus** | Gambelas
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | "Pretendo estar particularmente dedicado a melhorar as condições de trabalho, promovendo saúde e segurança no ambiente laboral, e defendendo os direitos de todos/as os/as trabalhadores/as."
+

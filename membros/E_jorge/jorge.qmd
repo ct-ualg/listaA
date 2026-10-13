@@ -1,0 +1,15 @@
+---
+title: "Jorge Carrega"
+description: "Local de trabalho na UALG"
+image: E_jorge.JPG
+---
+
+![](E_jorge.JPG)
+
+-   **Função atual** | 
+-   **Local** |  
+-   **Campus** | 
+-   **Sobre mim** | 
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | 
+
+

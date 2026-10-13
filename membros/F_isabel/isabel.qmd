@@ -1,0 +1,13 @@
+---
+title: "Isabel Duarte"
+description: "RISE-Health UAlg"
+image: F_isabel.jpeg
+---
+
+![](F_isabel.jpeg)
+
+-   **Função atual** | Investigadora
+-   **Local** | RISE-Health UAlg
+-   **Campus** | Gambelas
+-   **Sobre mim** | "Gosto de procurar soluções para problemas partilhados, e de tocar *ukulele* quando preciso de pensar."
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | "Estarei empenhada em desenvolver programas graduais de formação e desenvolvimento profissional, enriquecendo as competências dos membros da nossa academia para avançarmos juntos."

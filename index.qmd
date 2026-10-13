@@ -1,0 +1,17 @@
+---
+title: ""
+---
+
+![](pics/listaA_banner.jpg)
+
+
+
+
+
+::: {style="font-size: 250%; text-align: center"}
+
+Contamos com o voto de confiança de todas e todos!
+
+:::
+
+

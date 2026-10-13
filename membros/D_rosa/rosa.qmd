@@ -1,0 +1,14 @@
+---
+title: "Rosa Castro"
+description: "Biblioteca"
+image: D_rosa.jpg
+---
+
+![](D_rosa.jpg)
+
+
+-   **Função atual** | Técnica Superior (Bibliotecária)
+-   **Campus** | Penha
+-   **Sobre mim** | "Gosto de fotografia, sou colecionadora e adoro animais (ajudo as colónias do campus da Penha)."
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | "A representatividade, o diálogo, a transparência, a integração e a eficiência de toda a comunidade da UAlg."
+

@@ -1,0 +1,13 @@
+---
+title: "Rita Domingues"
+description: "FCT & CIMA | Centro de Investigação Marinha e Ambiental"
+image: B_rita.jpg
+---
+
+![](B_rita.jpg)   
+
+-   **Função atual** | Professora auxiliar
+-   **Local** | Faculdade de Ciências e Tecnologia / CIMA (Centro de Investigação Marinha e Ambiental)
+-   **Campus** | Gambelas 
+-   **Sobre mim & A minha visão para a Comissão de Trabalhadores da UAlg** |  "Quando não estou ao microscópio ou a dar aulas, podem encontrar-me a praticar algum tipo de atividade física... natação, yoga, SUP, calisténicos... Sou, portanto, uma forte defensora do equilíbrio entre trabalho e vida pessoal, e estou empenhada em promover estilos de vida mais saudáveis, contribuindo assim para a saúde física e psicológica de todos os trabalhadores da UAlg."
+
