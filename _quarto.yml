@@ -30,7 +30,7 @@ website:
     left: "Copyright 2026, Lista A - Comissão de Trabalhadores UAlg" 
     right: 
       - icon: github
-        href: https://github.com/ListaA-ComissaoTrabalhadoresUAlg
+        href: https://github.com/ct-ualg/listaA
     background: light
 
 format:
