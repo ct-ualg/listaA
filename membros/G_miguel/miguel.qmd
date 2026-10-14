@@ -1,6 +1,6 @@
 ---
 title: "Miguel Domingos"
-description: "Local de trabalho na UALG"
+description: "Serviços Académicos"
 image: G_miguel.jpeg
 ---
 

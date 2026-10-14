@@ -1,14 +1,14 @@
 ---
 title: "Maurícia Vinhas"
-description: "Local de trabalho na UALG"
+description: "ESGHT | Escola Superior de Gestão, Hotelaria e Turismo"
 image: K_mauricia.jpg
 ---
 
 ![](K_mauricia.jpg)
 
 -   **Função atual** | 
--   **Local** |  
--   **Campus** | 
+-   **Local** |  Escola Superior de Gestão, Hotelaria e Turismo
+-   **Campus** | Portimão
 -   **Sobre mim** | 
 -   **A minha visão para a Comissão de Trabalhadores da UAlg** | 
 

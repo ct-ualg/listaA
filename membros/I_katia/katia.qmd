@@ -1,6 +1,6 @@
 ---
 title: "Kátia Tavares"
-description: "Local de trabalho na UALG"
+description: "Serviços de Ação Social"
 image: I_katia.jpg
 ---
 

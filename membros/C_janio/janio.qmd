@@ -1,6 +1,6 @@
 ---
 title: "Jânio Monteiro"
-description: "Local de trabalho na UALG"
+description: "Instituto Superior de Engenharia"
 image: C_janio.jpg
 ---
 

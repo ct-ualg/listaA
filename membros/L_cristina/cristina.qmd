@@ -8,7 +8,7 @@ image: L_cristina.png
 
 -   **Função atual** | Coordenadora dos Serviços Administrativos do Pólo
 -   **Local** |  Escola Superior de Gestão, Hotelaria e Turismo
--   **Campus** | Pólo de Portimão da UAlg
+-   **Campus** | Portimão
 -   **Sobre mim** | "Faço voluntariado em várias áreas, porque acho que a vida faz sentido se fizermos alguma coisa pelos que mais precisam."
 -   **A minha visão para a Comissão de Trabalhadores da UAlg** | "Aspiro a transformar a comissão num espaço de igualdade e oportunidades para todos, reforçando a comunicação e cooperação entre os membros da UAlg."
 
