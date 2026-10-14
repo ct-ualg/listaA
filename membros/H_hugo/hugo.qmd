@@ -1,14 +1,14 @@
 ---
 title: "Hugo Oliveira"
-description: "Local de trabalho na UALG"
+description: "FCHS | ICArEHB"
 image: H_hugo.jpg
 ---
 
 ![](H_hugo.jpg)
 
--   **Função atual** | 
--   **Local** |  
--   **Campus** | 
+-   **Função atual** | Professor Auxiliar
+-   **Local** | ICArEHB & Faculdade de Ciências Humanas e Sociais
+-   **Campus** | Gambelas
 -   **Sobre mim** | 
 -   **A minha visão para a Comissão de Trabalhadores da UAlg** | 
 
