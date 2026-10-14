@@ -6,10 +6,10 @@ image: K_mauricia.jpg
 
 ![](K_mauricia.jpg)
 
--   **Função atual** | 
--   **Local** |  Escola Superior de Gestão, Hotelaria e Turismo
+-   **Função atual** | Técnica Superior
+-   **Local** | Escola Superior de Gestão, Hotelaria e Turismo
 -   **Campus** | Portimão
--   **Sobre mim** | 
--   **A minha visão para a Comissão de Trabalhadores da UAlg** | 
+-   **Sobre mim** | “Gosto de momentos em família e caminhadas ao ar livre com o meu cão.” 
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | “Acredito numa universidade mais justa, que reconheça e valorize todos os seus trabalhadores, assegurando a igualdade de oportunidades e de condições de trabalho para cada um."
 
 
