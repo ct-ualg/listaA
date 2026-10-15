@@ -6,9 +6,9 @@ image: C_janio.jpg
 
 ![](C_janio.jpg)
 
--   **Função atual** | 
--   **Local** |  
--   **Campus** | 
+-   **Função atual** | Professor Coordenador
+-   **Local** | Instituto Superior de Engenharia
+-   **Campus** | Penha
 -   **Sobre mim** | 
 -   **A minha visão para a Comissão de Trabalhadores da UAlg** | 
 
